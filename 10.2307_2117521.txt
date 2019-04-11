@@ -1,0 +1,14 @@
+@article{10.2307/2117521,
+ ISSN = {00028282},
+ URL = {http://www.jstor.org/stable/2117521},
+ abstract = {This paper studies four classic fiscal-policy experiments within a quantitatively restricted neoclassical model. Our main findings are as follows: (i) permanent changes in government purchases can lead to short-run and long-run output multipliers that exceed 1; (ii) permanent changes in government purchases induce larger effects than temporary changes; (iii) the financing decision is quantitatively more important than the resource cost of changes in government purchases; and (iv) public investment has dramatic effects on private output and investment. These findings stem from important dynamic interactions of capital and labor absent in earlier equilibrium analyses of fiscal policy.},
+ author = {Marianne Baxter and Robert G. King},
+ journal = {The American Economic Review},
+ number = {3},
+ pages = {315--334},
+ publisher = {American Economic Association},
+ title = {Fiscal Policy in General Equilibrium},
+ volume = {83},
+ year = {1993}
+}
+

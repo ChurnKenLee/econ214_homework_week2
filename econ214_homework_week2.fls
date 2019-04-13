@@ -153,6 +153,8 @@ INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+OUTPUT c:/Users/churn/Documents/UCSD/2019_spring/ECON_214/week2/econ214_homework_week2/econ214_homework_week2.pdf
+INPUT c:/Users/churn/Utilities/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
@@ -173,8 +175,6 @@ INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-OUTPUT c:/Users/churn/Documents/UCSD/2019_spring/ECON_214/week2/econ214_homework_week2/econ214_homework_week2.pdf
-INPUT c:/Users/churn/Utilities/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/Users/churn/Documents/UCSD/2019_spring/ECON_214/week2/econ214_homework_week2/econ214_homework_week2.aux
 INPUT c:/Users/churn/Documents/UCSD/2019_spring/ECON_214/week2/econ214_homework_week2/econ214_homework_week2.run.xml
 OUTPUT c:/Users/churn/Documents/UCSD/2019_spring/ECON_214/week2/econ214_homework_week2/econ214_homework_week2.run.xml

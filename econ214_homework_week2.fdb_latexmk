@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber econ214_homework_week2"] 1555010929 "econ214_homework_week2.bcf" "econ214_homework_week2.bbl" "econ214_homework_week2" 1555354156
-  "econ214_homework_week2.bcf" 1555354156 91680 f29c5f0f1b8302ee8d7ecc511ef36800 ""
+["biber econ214_homework_week2"] 1555396839 "econ214_homework_week2.bcf" "econ214_homework_week2.bbl" "econ214_homework_week2" 1555396883
+  "econ214_homework_week2.bcf" 1555396860 91567 e22d3cda6c2be68c10ba546a2aeb80f3 ""
   "econ214_homework_week2_bibliography.bib" 1555010813 1423 544b89e231833492dd9c5861478094eb ""
   (generated)
   "econ214_homework_week2.blg"
   "econ214_homework_week2.bbl"
-["pdflatex"] 1555354154 "c:/Users/churn/Documents/UCSD/2019_spring/ECON_214/week2/econ214_homework_week2/econ214_homework_week2.tex" "c:/Users/churn/Documents/UCSD/2019_spring/ECON_214/week2/econ214_homework_week2/econ214_homework_week2.pdf" "econ214_homework_week2" 1555354156
-  "c:/Users/churn/Documents/UCSD/2019_spring/ECON_214/week2/econ214_homework_week2/econ214_homework_week2.aux" 1555354156 1248 d4fef4de25a3349d81fcf34fefd4584e ""
-  "c:/Users/churn/Documents/UCSD/2019_spring/ECON_214/week2/econ214_homework_week2/econ214_homework_week2.tex" 1555354145 2457 1235c21b855191b102a4faa058bfa28b ""
+["pdflatex"] 1555396859 "c:/Users/churn/Documents/UCSD/2019_spring/ECON_214/week2/econ214_homework_week2/econ214_homework_week2.tex" "c:/Users/churn/Documents/UCSD/2019_spring/ECON_214/week2/econ214_homework_week2/econ214_homework_week2.pdf" "econ214_homework_week2" 1555396883
+  "c:/Users/churn/Documents/UCSD/2019_spring/ECON_214/week2/econ214_homework_week2/econ214_homework_week2.aux" 1555396860 1135 e8dc9a34accbcc7ce9bac952f00bc505 ""
+  "c:/Users/churn/Documents/UCSD/2019_spring/ECON_214/week2/econ214_homework_week2/econ214_homework_week2.tex" 1555396875 3499 36f613597e7ca82a0022ad3ce84f7406 ""
   "c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1554430525 3332 103109f5612ad95229751940c61aada0 ""
   "c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1554429772 1004 54797486969f23fa377b128694d548df ""
   "c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1554429772 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -35,6 +35,7 @@
   "c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1554429772 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1554429772 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1554429772 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
+  "c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1554429772 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1554429772 36118 fad905eba93cff5bce1e185fe980a177 ""
   "c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb" 1554429773 24252 1e4e051947e12dfb50fee0b7f4e26e3a ""
   "c:/Users/churn/Utilities/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1554431260 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -60,6 +61,7 @@
   "c:/Users/churn/Utilities/texlive/2018/texmf-dist/tex/latex/base/article.cls" 1554430896 19933 3097d1b31d3c45dc957096f554529032 ""
   "c:/Users/churn/Utilities/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty" 1554430897 5161 c004ea5a189d4bdcf42e86754ad75a58 ""
   "c:/Users/churn/Utilities/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty" 1554430897 5052 b64c57f4a38aae0d2745f8298fa50814 ""
+  "c:/Users/churn/Utilities/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd" 1554430897 2472 aa08940f0a4dc6c24ae9f943b04ae0b9 ""
   "c:/Users/churn/Utilities/texlive/2018/texmf-dist/tex/latex/base/size12.clo" 1554430897 8305 6a682ae291edd56e2d7accbf95eca451 ""
   "c:/Users/churn/Utilities/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx" 1554429937 8009 b5fd281635c1d8b068e54ef9820418bb ""
   "c:/Users/churn/Utilities/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/standard.bbx" 1554429937 24313 ff3a9a84addb7f5de285c708da15a926 ""
@@ -98,15 +100,15 @@
   "c:/Users/churn/Utilities/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1554432494 3265617 40234d5ab5b4d9a96a68826167de407e ""
   "c:/Users/churn/Utilities/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1554432613 4233693 11fcb83b07cda54ba2dc3f601d792bda ""
   "c:/Users/churn/Utilities/texlive/2018/texmf.cnf" 1554432465 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "econ214_homework_week2.aux" 1555354156 1248 d4fef4de25a3349d81fcf34fefd4584e ""
-  "econ214_homework_week2.bbl" 1555010932 4609 3ac6984c308957bb756d2834efb182b0 "biber econ214_homework_week2"
-  "econ214_homework_week2.run.xml" 1555354156 2462 ab62edc8c6f6b0784458622cd9a1629f ""
-  "econ214_homework_week2.tex" 1555354145 2457 1235c21b855191b102a4faa058bfa28b ""
+  "econ214_homework_week2.aux" 1555396860 1135 e8dc9a34accbcc7ce9bac952f00bc505 ""
+  "econ214_homework_week2.bbl" 1555396858 4609 3ac6984c308957bb756d2834efb182b0 "biber econ214_homework_week2"
+  "econ214_homework_week2.run.xml" 1555396860 2462 ab62edc8c6f6b0784458622cd9a1629f ""
+  "econ214_homework_week2.tex" 1555396875 3499 36f613597e7ca82a0022ad3ce84f7406 ""
   (generated)
-  "c:/Users/churn/Documents/UCSD/2019_spring/ECON_214/week2/econ214_homework_week2/econ214_homework_week2.pdf"
-  "econ214_homework_week2.log"
-  "econ214_homework_week2.bcf"
   "econ214_homework_week2.run.xml"
-  "econ214_homework_week2.aux"
   "econ214_homework_week2.pdf"
   "c:/Users/churn/Documents/UCSD/2019_spring/ECON_214/week2/econ214_homework_week2/econ214_homework_week2.log"
+  "econ214_homework_week2.log"
+  "econ214_homework_week2.bcf"
+  "econ214_homework_week2.aux"
+  "c:/Users/churn/Documents/UCSD/2019_spring/ECON_214/week2/econ214_homework_week2/econ214_homework_week2.pdf"

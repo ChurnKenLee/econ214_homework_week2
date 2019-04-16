@@ -155,6 +155,9 @@ INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 OUTPUT c:/Users/churn/Documents/UCSD/2019_spring/ECON_214/week2/econ214_homework_week2/econ214_homework_week2.pdf
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
@@ -163,7 +166,6 @@ INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr6.
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
@@ -182,5 +184,6 @@ INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/type1/public/amsfon
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
 INPUT c:/Users/churn/Utilities/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb
